@@ -34,6 +34,7 @@ import ObjectRepo.VtigerHomePage;
 
 public class CreateProductAndDeleteProductTest extends BaseClass {
 
+	//Gud mrng
 //	@Test(groups = "sanity")
 	public void CreateProductAndDeleteProductTest() throws Throwable {
 
